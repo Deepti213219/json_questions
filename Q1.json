@@ -1,0 +1,8 @@
+// Q.1 Json data ko python object main convert karne ka program likho?.
+
+{
+    "Name":"Ram", 
+    "Class":"IV", 
+    "Age":9
+    
+}
