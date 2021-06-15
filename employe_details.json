@@ -1,0 +1,26 @@
+{
+    "emp1": {
+        "name": "neelam",
+        "destination": "programer",
+        "age": "24",
+        "salary": "2400"
+    },
+    "emp2": {
+        "name": "komal",
+        "destination": "trainer",
+        "age": "24",
+        "salary": "2000"
+    },
+    "emp3": {
+        "name": "anuradha",
+        "destination": "HR",
+        "age": "24",
+        "salary": "40000"
+    },
+    "emp4": {
+        "name": "Abhishek",
+        "destination": "manager",
+        "age": "29",
+        "salary": "63000"
+    }
+}
